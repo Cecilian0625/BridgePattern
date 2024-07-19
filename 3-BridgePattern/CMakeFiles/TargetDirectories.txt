@@ -1,0 +1,3 @@
+D:/24和利时实习/3-BridgePattern/3-BridgePattern/CMakeFiles/BridgePattern.dir
+D:/24和利时实习/3-BridgePattern/3-BridgePattern/CMakeFiles/ALL_BUILD.dir
+D:/24和利时实习/3-BridgePattern/3-BridgePattern/CMakeFiles/ZERO_CHECK.dir

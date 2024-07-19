@@ -1,0 +1,10 @@
+^D:\24和利时实习\3-BRIDGEPATTERN\3-BRIDGEPATTERN\CMAKELISTS.TXT
+setlocal
+D:\bin\cmake.exe -SD:/24和利时实习/3-BridgePattern/3-BridgePattern -BD:/24和利时实习/3-BridgePattern/3-BridgePattern --check-stamp-file D:/24和利时实习/3-BridgePattern/3-BridgePattern/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
